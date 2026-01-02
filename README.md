@@ -66,7 +66,7 @@ My goal is to secure a **full-time remote software engineering role** with a **t
 ---
 
 ## 📫 Professional Contact
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/wisdomchaindustry-cloud
 
 ---
 
