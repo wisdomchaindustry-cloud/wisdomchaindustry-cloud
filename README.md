@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Francis Paulinus
+# 👋 Hi, I'm Francis Ime
 
 🎓 **Computer Engineering Graduate**  
 💻 **Software Engineering Student — Brigham Young University (BYU)**  
