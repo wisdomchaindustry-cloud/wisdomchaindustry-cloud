@@ -7,14 +7,12 @@
 ---
 
 ## 👨‍💻 Professional Summary
-I am a **Computer Engineering graduate** with a strong academic foundation, currently advancing my skills in **Software Engineering at Brigham Young University (BYU)**.
+I am a **Computer Engineering graduate** with a strong academic foundation, currently advancing my skills in **Software Engineering at Brigham Young University (BYU)**. My professional journey combines education, engineering, and software development, enabling me to communicate complex concepts effectively while solving technical challenges through analytical thinking and creativity.
 
-I bring a **well-rounded technical background** that combines:
-- Software development fundamentals
-- Networking and IT support experience
-- Strong problem-solving and analytical skills
+As a dedicated educator, I am committed to helping others learn, grow, and succeed. As an aspiring software engineer, I continuously develop my skills in modern software development, problem-solving, and technology-driven solutions. I am particularly interested in Artificial Intelligence and its potential to transform education, improve productivity, and solve real-world problems.
 
-My goal is to secure a **full-time remote software engineering role** with a **top global technology company**, where I can contribute to building scalable, reliable, and impactful solutions.
+
+My goal is to secure a **full-time remote tech role** with a **top global technology company**, where I can contribute to building scalable, reliable, and impactful solutions.
 
 ---
 
@@ -32,7 +30,7 @@ My goal is to secure a **full-time remote software engineering role** with a **t
 - Technical support and user assistance
 
 **Data & Analysis**
-- Data analysis basics
+- Data analysis Fundamentals
 - Charts, data interpretation, and reporting
 - Analytical thinking and accuracy
 
@@ -40,6 +38,7 @@ My goal is to secure a **full-time remote software engineering role** with a **t
 - Git & GitHub (version control and collaboration)
 - Command-line basics
 - Documentation and technical writing
+- production and Collaboration Tools
 
 ---
 
@@ -50,13 +49,17 @@ My goal is to secure a **full-time remote software engineering role** with a **t
 - Writing maintainable and scalable code
 
 ---
-
 ## 🎯 Career Objectives
-- 🚀 Become a high-performing software engineer
-- 🌐 Work remotely with international tech teams
-- 🏢 Contribute to top technology companies
-- 📈 Continuously grow technical and professional skills
-- 💡 Build solutions that solve real-world problems
+• Become a world-class software engineer.
+• Leverage Artificial Intelligence to solve educational and business challenges.
+• Build innovative software products with global impact.
+• Collaborate with international and remote technology teams.
+• Contribute to the advancement of technology-driven education.
+
+---
+
+## 🎯 Personal philosophy
+I believe that education and technology are powerful tools for transforming lives. By combining teaching, software engineering, and artificial intelligence, I seek to create solutions that empower individuals, improve learning experiences, and make a meaningful difference in society.
 
 ---
 
